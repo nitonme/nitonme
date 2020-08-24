@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/nitonme/nitonme/master/wave.gif" width="30px" title="Waving hand">
 
-![nitonme github stats](https://github-readme-stats.vercel.app/api?username=nitonme&show_icons=true)
+[![nitonme github stats](https://github-readme-stats.vercel.app/api?username=nitonme&show_icons=true)](https://github.com/nitonme/nitonme)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitonme)](https://github.com/nitonme/nitonme)
 
 
