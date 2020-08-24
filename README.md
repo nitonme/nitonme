@@ -1,5 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/nitonme/nitonme/master/wave.gif" width="30px" title="Waving hand">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitonme)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nitonme/nitonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
